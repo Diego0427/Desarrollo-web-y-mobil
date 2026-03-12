@@ -1,0 +1,37 @@
+1. Identificación de la aplicación analizada
+
+- Nombre de la aplicación: Mercado Libre
+- Tipo de sistema: Comercial.
+- Publico principal: Compradores y venta de servicios, insumos, electrónica, ropa y todo lo que tenga que ver con este fin.
+- Contexto de uso habitual: Generalmente para vender y comprar, pero también tiene apartado para ver peliculas y series, se puede usar gratuitamente o con suscripción.
+
+2. Análisis del rol del frontend en la aplicación
+
+- El modelo de pagina es top-down, arriba se presentan las mayoría de funciones; buscador, secciones y suscripciones. 
+- por lo visto la pagina no tiene demasiados menús, tiene la mayoría de cosas en la pagina principal, por lo que la mayoría de links están ahí. Lo que veo que predomina son las redirecciones. 
+-Aunque haya muchos elementos en la pagina principal, se puede distinguir cada sección debido a los grandes recuadros para cada una, además de estar resaltados con imágenes y diferentes colores.
+
+3. Identificación de aspectos positivos del frontend
+
+- El primer aspecto positivo pero que puede ser doble filo, es la gran información mostrada en la pagina principal, y no en textos necesariamente pequeños.
+Puede hacer que el usuario pueda ver efectivamente muchas cosas de las que ofrece la pagina sin cambiar de esta, pero a cambio, sacrifica claridad y el suplir la necesidad inmediata que tiene el usuario que es la compra de productos
+
+- El segundo aspecto positivo es: Según lo explicado la clase anterior, una pagina debe estar bien diseñada para no colocar datos donde no van, en este caso mercado libre lo hace bien,
+ya que en iniciar sesión es una pagina única y difícilmente uno se puede equivocar, igualmente al momento de pagar, es muy intuitiva esa parte; También en ese apartado es difícil pagar sin confirmaciones previas.
+
+4.Identificación de aspectos negativos del frontend
+
+- Esto lo mencione antes, es negativo pero se compensa con otras cosas: Demasiada información y redirecciones al entrar y escrollear hacia abajo en la pagina, 
+
+puede hacer que el usuario no encuentre lo que busque y sea un poco confusa.
+- Lo segundo negativo es la repetición de información no necesaria en la pagina, esta parte no estoy tan seguro pero para mi es un aspecto negativo. 
+Esto debido a que simplemente se podría dejar espacio sin nada para la fatiga de información o para agregar mas información si se requiere, se repiten las categorías e invitaciones a suscripciones, entre otras cosas. 
+
+5. Aplicación del modelo top-down
+
+- Como se menciono en la primera parte, la pagina esta diseñada con un modelo top-down, ya que se muestra lo mas importante al entrar a la pagina y luego con las redirecciones se puede entrar a un lugar mas especifico.
+
+6. Reflexión final
+
+- Es ideal y necesario hacer este tipo de ejercicios para comprender mejor como funciona la relación página-usuario. Esto permite hacer a futuro un mejor análisis y desarrollar una mayor capacidad para ver problemas. 
+Lo ultimo a destacar es que estas paginas están hechas por ingenieros  posiblemente con experiencia, lo que lo hace una excelente fuente para estudiar y analizar.
