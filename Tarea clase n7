@@ -1,19 +1,23 @@
-Pagina seleccionada: Entel.cl
+Análisis de Interfaz: Entel.cl
+Componentes principales:
 
-Componentes principales: 
-1. Header: Es el encabezado, aca se muestra el inicio de sesion, asi como diferentes secciones para ir a elegir planes, ya sea movil u hogar, tambien redirecciones a otras paginas.
-2. navegacion: hay enlaces para ofertas, planes, pagos, alianzas, entre otros. Cada uno de estos enlaces va acompañado con una imagen.
-3. Botones: Mi entel, revisar ofertas, planes, equipos, hogar, movil, tecnologia, recarga, link a equipos. 
-4. La barra de busqueda se ubica arriba a la derecha de la pagina para buscar y encontrar lo que el usuario necesita.
+Header: Es el encabezado, acá se muestra el inicio de sesión, así como diferentes secciones para ir a elegir planes, ya sea móvil u hogar, también redirecciones a otras páginas.
 
-Como esto facilita la interaccion?
-  1. Como se hablo en clase, el header y el logo es lo principal que el cliente o usuario ve cuando carga la pagina, es muy importante que le llame la atencion y mostrar lo necesario. En el caso de entel, se prioriza 
-iniciar sesion, los perfiles empresa y los pagos pendientes, luego aparecen los servicios.
-2. Dado que la pagina no da servicios muy diferentes entre si, es facil de entender con las imagenes y links lo que se quiere comunicar al usuario. Por ultimo, los colores de la pagina son simples y llamativos.
+Navegación: Hay enlaces para ofertas, planes, pagos, alianzas, entre otros. Cada uno de estos enlaces va acompañado con una imagen.
 
-N2
-Analisis de jerarquia visual:
+Botones: Mi Entel, revisar ofertas, planes, equipos, hogar, móvil, tecnología, recarga, link a equipos.
 
-Que elementos llaman primero la atencion?
+Barra de búsqueda: Se ubica arriba a la derecha de la página para buscar y encontrar lo que el usuario necesita.
 
-Para mi lo que mas llama la atencion es la imagen grande al iniciar el body de la pagina, basicamente porque 
+¿Cómo esto facilita la interacción?
+Como se habló en clase, el header y el logo es lo principal que el cliente o usuario ve cuando carga la página, es muy importante que le llame la atención y mostrar lo necesario.
+En el caso de Entel, se prioriza iniciar sesión, los perfiles empresa y los pagos pendientes, luego aparecen los servicios.
+
+Dado que la página no da servicios muy diferentes entre sí, es fácil de entender con las imágenes y links lo que se quiere comunicar al usuario. Por último, los colores de la página son simples y llamativos.
+
+N2: Análisis de jerarquía visual
+¿Qué elementos llaman primero la atención?
+
+Para mí lo que más llama la atención es la imagen grande al iniciar el body de la página. 
+Si lo explicamos con jerarquía visual, esto pasa porque tiene un tamaño muy grande y está en la posición inicial de la página. 
+Además, las imágenes tienen colores distintos al de la página en general y las letras son más grandes que el resto debido al gran espacio disponible para el contenido.
