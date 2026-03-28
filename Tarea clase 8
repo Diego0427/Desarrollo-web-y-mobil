@@ -1,0 +1,38 @@
+Sitio web elegido: https://homer.sii.cl/
+
+
+• Tipo de sistema: Sistema de acceso o registro
+• Público objetivo: Toda persona mayor a 18 anios que haya iniciado actividades comerciales
+• Contexto de uso principal: Para esas personas, se puede pagar servicios, registrar datos, pedir documentos y otras funciones que tengan que ver con personas juridicas
+
+2. Identificación de componentes UI 
+
+• Header: Solo contiene un acceso a "MI SII".
+• Menú de navegación: Barra horizontal con categorías como "Servicios online", "Normativa y legislación", etc. tambien tiene un boton de busqueda arriba a la derecha abajo del header.
+• Área principal: Banners con las noticias o trámites más importantes del mes, tambien accesos rapidos y recomendaciones.
+• Botones: Hay muchos recuadros para diferentes acciones, cada uno tiene diferentes colores pero igual tamanio la mayoria.
+• Footer: Información de contacto, redes sociales y enlaces legales al final de la página.
+
+3. Análisis de jerarquía visual
+
+A mi gusto no llama mucho la atencion algo en especifico, debido a colores parecidos y siento que es una pagina plana y no destaca en secciones demasiado. 
+Si tengo que decir algo seria la vitrina de noticias porque parece al principio y es ligeramente mas grande. En cuanto a lo secundario, seria lo ultimo de la pagina o el footer que esta el faq y 
+enlaces a redes sociales. Para terminar esta parte, las acciones visualmente prioritarias son ingresar al sii y los servicios online.
+
+4. Identificación de aciertos y problemas de U
+
+Dos aciertos
+• la tipografia de la pagina es clara y los colores representas los colores elegidos por el Sii
+• Aunque la informacion esta junta, al no haber tanta infor en la pagina es mas facil de entender, aunque igualmente se puede mejorar
+
+Dos negativas
+• Como mencione antes, hay mucha informacion junta, se podria separar un poco mas las secciones para mejor entendimiento de la pagina y opciones
+• Demasiados ingresa aqui o redirecciones entre ellos. Por eso es fundamental organizar bien los espacios de la pagina y si es posible alargarla
+
+5. Definición de un caso de diseño propio
+
+Aplicación: Sistema de consulta de estado de reparación de hardware.
+Objetivo: Permitir que los clientes vean si su GPU o PC ya está listo.
+Acción principal: Ingresar un número de orden para ver el progreso de la reparación.
+
+6. Diseño conceptual de la interfaz UI
