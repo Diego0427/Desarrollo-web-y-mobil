@@ -29,10 +29,36 @@ Dos negativas
 • Como mencione antes, hay mucha informacion junta, se podria separar un poco mas las secciones para mejor entendimiento de la pagina y opciones
 • Demasiados ingresa aqui o redirecciones entre ellos. Por eso es fundamental organizar bien los espacios de la pagina y si es posible alargarla
 
-5. Definición de un caso de diseño propio
+5. Definición de un caso de diseño propio para este ejercicio:
 
-Aplicación: Sistema de consulta de estado de reparación de hardware.
-Objetivo: Permitir que los clientes vean si su GPU o PC ya está listo.
-Acción principal: Ingresar un número de orden para ver el progreso de la reparación.
+• Objetivo principal: Permitir que los clientes consulten de forma autónoma el progreso de la reparación de sus componentes (como GPUs o PCs).
+• Tipo de usuario: Clientes que han dejado un equipo en el servicio técnico y necesitan actualizaciones rápidas.
+• Acción principal: El usuario debe ingresar su "ID de orden" único y presionar un botón para obtener el estado actual de su equipo.
 
-6. Diseño conceptual de la interfaz UI
+6. Diseño conceptual de la interfaz UIBasado en el wireframe de baja fidelidad realizado, la estructura se organiza así:
+
+Componentes UI:
+
+• Header: Contiene la marca, una barra de búsqueda general, el carro de compras y el acceso a la cuenta.
+• Sidebar (Barra lateral): Incluye un menú desplegable para navegación y el bloque específico de "ID de orden" para consultas rápidas.
+• Área de contenido: Espacio central dedicado a promociones, noticias y novedades del rubro.
+• Footer: Información de contacto, preguntas frecuentes (FAQ) y redes sociales.
+• Ubicación y Organización: Los elementos se distribuyen para que la acción de consulta esté siempre visible en la parte lateral izquierda, facilitando el acceso sin navegar por otras páginas.
+• Prioridades: Se prioriza la herramienta de consulta y la navegación básica del sitio por sobre el contenido publicitario o de noticias.
+
+7. Aplicación de principios de diseño UIEl diseño propuesto se justifica bajo los siguientes principios fundamentales:
+
+• Simplicidad: Se eliminaron elementos visuales complejos o distractores, dejando solo los campos necesarios para que el cliente no se confunda al buscar su reparación.
+• Claridad: El uso de etiquetas directas como "ID de orden" y un ejemplo de texto ("A1B2C3") dentro del campo asegura que el usuario sepa exactamente qué escribir.
+• Feedback visual: La existencia de un botón de "Buscar" justo bajo el campo de texto le da al usuario la señal clara de que ahí debe hacer clic para recibir una respuesta del sistema.
+• Consistencia visual: Los botones y campos de texto mantienen formas rectangulares similares en toda la página, creando una estética uniforme y profesional.
+• Orden y alineación: La interfaz utiliza bloques bien definidos y alineados para que la vista del usuario siga un camino lógico de lectura de arriba hacia abajo.\
+
+La UI es fundamental para guiar al usuario hacia lo que más nos interesa que visite, logrando que se mantenga en la página y no se frustre al navegar en ella. 
+Al definir qué se muestra y cómo se organiza visualmente, transformamos decisiones conceptuales en elementos que el usuario puede entender de forma eficiente.
+También es muy importante que la interfaz esté ordenada y planificada previamente para permitir un desarrollo frontend y un código más limpio. 
+Por eso es clave aplicar el enfoque top-down : a través de un boceto o diseño conceptual, relacionamos la UX y la UI en conjunto para asegurar que la estructura funcione bien antes de pasar a los wireframes detallados o a la implementación técnica final.
+
+Enlace a wireframe:
+https://wireframe.cc/Bsg0gk
+
