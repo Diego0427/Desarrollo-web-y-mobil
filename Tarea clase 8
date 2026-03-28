@@ -55,6 +55,8 @@ Componentes UI:
 • Consistencia visual: Los botones y campos de texto mantienen formas rectangulares similares en toda la página, creando una estética uniforme y profesional.
 • Orden y alineación: La interfaz utiliza bloques bien definidos y alineados para que la vista del usuario siga un camino lógico de lectura de arriba hacia abajo.\
 
+8. Reflexión final
+
 La UI es fundamental para guiar al usuario hacia lo que más nos interesa que visite, logrando que se mantenga en la página y no se frustre al navegar en ella. 
 Al definir qué se muestra y cómo se organiza visualmente, transformamos decisiones conceptuales en elementos que el usuario puede entender de forma eficiente.
 También es muy importante que la interfaz esté ordenada y planificada previamente para permitir un desarrollo frontend y un código más limpio. 
